@@ -1,0 +1,6 @@
+Practice prompt
+
+Build a Job Processing API that allows users to submit jobs, view jobs,
+start jobs, complete jobs, and get summary counts by status. The API 
+should validate input, handle invalid state transitions, include tests,
+and be deployable as a FastAPI service.
