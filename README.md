@@ -8,7 +8,7 @@ The project uses FastAPI, SQLAlchemy, SQLite, and an in-memory priority queue. I
 
 ## Live Demo
 
-* Backend: https://retaillens-api-mfr4.onrender.com/docs
+* Backend: https://job-processing-api.onrender.com/docs
 
 ## Features
 
