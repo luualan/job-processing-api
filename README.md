@@ -6,6 +6,10 @@ The project uses FastAPI, SQLAlchemy, SQLite, and an in-memory priority queue. I
 
 ![API docs screenshot](docs/images/job-processing-api-image.png)
 
+## Live Demo
+
+* Backend: https://retaillens-api-mfr4.onrender.com/docs
+
 ## Features
 
 * Create and list jobs
